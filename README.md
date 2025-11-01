@@ -162,22 +162,22 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg" alt="Redux" width="16" height="16"> Redux
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" alt="Vuex" width="16" height="16"> Vuex
 - <img src="https://cdn.simpleicons.org/pinia/ffd859" alt="Pinia" width="16" height="16"> Pinia
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/zustand.svg" alt="Zustand" width="16" height="16"> Zustand
+- 🐻 Zustand
 
 #### 📦 Utility Libraries
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React Use" width="16" height="16"> React Use package
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/reactquery.svg" alt="Tanstack Query" width="16" height="16"> Tanstack Query (React/Vue)
+- 🔍 Tanstack Query (React/Vue)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apollographql.svg" alt="Apollo GraphQL" width="16" height="16"> Apollo GraphQL Client
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reacthookform.svg" alt="React Hook Form" width="16" height="16"> React Hook Form
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lodash.svg" alt="Lodash" width="16" height="16"> Lodash
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/moment.svg" alt="Moment.js" width="16" height="16"> Moment.js / Luxon / Day.js
+- ⏰ Moment.js / Luxon / Day.js
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg" alt="jQuery" width="16" height="16"> jQuery
 
 #### 📊 Data Visualization
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chartdotjs.svg" alt="Chart.js" width="16" height="16"> Chart.js
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/antdesign.svg" alt="Ant Design Plots" width="16" height="16"> Ant Design Plots
 - <img src="https://cdn.simpleicons.org/greensock/88ce02" alt="GSAP" width="16" height="16"> GSAP
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/framermotion.svg" alt="Framer Motion" width="16" height="16"> Framer Motion
+- 🎬 Framer Motion
 
 #### 🧪 Testing
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/playwright.svg" alt="Playwright" width="16" height="16"> Playwright
@@ -202,7 +202,7 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 
 #### 🔐 Authentication & Security
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jsonwebtokens.svg" alt="JWT" width="16" height="16"> JWT (JSON Web Token)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/oauth.svg" alt="OAuth 2.0" width="16" height="16"> OAuth 2.0
+- 🔐 OAuth 2.0
 - 🛡️ Two-Factor Authentication (2FA)
 
 #### 📋 Project Management
