@@ -12,9 +12,6 @@ Experienced Front-End Developer | React/Next
   <a href="https://www.linkedin.com/in/vyacheslav-onischenko-380a6117b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/slavononis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://onislabs.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
@@ -34,7 +31,6 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 
 - 🌱 I'm currently exploring advanced AI integration patterns and optimizing React performance
 - 💬 Ask me about React, Next.js, TypeScript, or front-end architecture
-- 📫 How to reach me: **slavon.onischenko@gmail.com**
 - ⚡ Fun fact: I love solving complex technical challenges and mentoring fellow developers
 
 ---
