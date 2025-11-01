@@ -147,73 +147,73 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 <summary>📖 Click to expand</summary>
 
 #### ⚡ Frameworks
-- 🟢 Vue 2/3
-- 🟣 Nuxt
-- ⚫ Express
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" alt="Vue" width="16" height="16"> Vue 2/3
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nuxtdotjs.svg" alt="Nuxt" width="16" height="16"> Nuxt
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express" width="16" height="16"> Express
 
 #### 🧩 UI Component Libraries
-- 🐜 Ant Design
-- ⚛️ Material UI
-- 🔷 Element UI
-- 🟣 Bootstrap
-- 🎨 Shadcn UI
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/antdesign.svg" alt="Ant Design" width="16" height="16"> Ant Design
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/materialui.svg" alt="Material UI" width="16" height="16"> Material UI
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/element.svg" alt="Element UI" width="16" height="16"> Element UI
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="16" height="16"> Bootstrap
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/shadcnui.svg" alt="Shadcn UI" width="16" height="16"> Shadcn UI
 
 #### 🔄 State Management
-- 🟣 Redux
-- 🟢 Vuex
-- 🟡 Pinia
-- 🟠 Zustand
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg" alt="Redux" width="16" height="16"> Redux
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vuedotjs.svg" alt="Vuex" width="16" height="16"> Vuex
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pinia.svg" alt="Pinia" width="16" height="16"> Pinia
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zustand.svg" alt="Zustand" width="16" height="16"> Zustand
 
 #### 📦 Utility Libraries
-- ⚛️ React Use package
-- 🔵 Tanstack Query (React/Vue)
-- 🟣 Apollo GraphQL Client
-- ⚛️ React Hook Form
-- 🔵 Lodash
-- ⏰ Moment.js / Luxon / Day.js
-- 💚 jQuery
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React Use" width="16" height="16"> React Use package
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tanstackquery.svg" alt="Tanstack Query" width="16" height="16"> Tanstack Query (React/Vue)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apollographql.svg" alt="Apollo GraphQL" width="16" height="16"> Apollo GraphQL Client
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reacthookform.svg" alt="React Hook Form" width="16" height="16"> React Hook Form
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lodash.svg" alt="Lodash" width="16" height="16"> Lodash
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/momentdotjs.svg" alt="Moment.js" width="16" height="16"> Moment.js / Luxon / Day.js
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jquery.svg" alt="jQuery" width="16" height="16"> jQuery
 
 #### 📊 Data Visualization
-- 📈 Chart.js
-- 📊 Ant Design Plots
-- ✨ GSAP
-- 🎬 Framer Motion
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chartdotjs.svg" alt="Chart.js" width="16" height="16"> Chart.js
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/antdesign.svg" alt="Ant Design Plots" width="16" height="16"> Ant Design Plots
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gsap.svg" alt="GSAP" width="16" height="16"> GSAP
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/framermotion.svg" alt="Framer Motion" width="16" height="16"> Framer Motion
 
 #### 🧪 Testing
-- 🎭 Playwright
-- 🌲 Cypress
-- 📚 Storybook
-- 🎨 Chromatic
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/playwright.svg" alt="Playwright" width="16" height="16"> Playwright
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cypress.svg" alt="Cypress" width="16" height="16"> Cypress
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/storybook.svg" alt="Storybook" width="16" height="16"> Storybook
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chromatic.svg" alt="Chromatic" width="16" height="16"> Chromatic
 
 #### 🏗️ Build Tools
-- ⚡ Vite
-- 📦 Webpack
-- 🔧 Gulp
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" alt="Vite" width="16" height="16"> Vite
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webpack.svg" alt="Webpack" width="16" height="16"> Webpack
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gulp.svg" alt="Gulp" width="16" height="16"> Gulp
 - 📁 Monorepo
 
 #### 🚀 CI/CD & Deployment
-- 🐙 GitHub Actions
-- 🦊 GitLab CI/CD
-- 🔵 Bitbucket Pipelines
-- ▲ Vercel
-- ☁️ AWS Amplify
-- 🟣 Heroku
-- 🟢 Netlify
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" alt="GitHub Actions" width="16" height="16"> GitHub Actions
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg" alt="GitLab CI/CD" width="16" height="16"> GitLab CI/CD
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bitbucket.svg" alt="Bitbucket Pipelines" width="16" height="16"> Bitbucket Pipelines
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Vercel" width="16" height="16"> Vercel
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS Amplify" width="16" height="16"> AWS Amplify
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/heroku.svg" alt="Heroku" width="16" height="16"> Heroku
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/netlify.svg" alt="Netlify" width="16" height="16"> Netlify
 
 #### 🔐 Authentication & Security
-- 🔑 JWT (JSON Web Token)
-- 🔒 OAuth 2.0
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jsonwebtokens.svg" alt="JWT" width="16" height="16"> JWT (JSON Web Token)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/oauth.svg" alt="OAuth 2.0" width="16" height="16"> OAuth 2.0
 - 🛡️ Two-Factor Authentication (2FA)
 
 #### 📋 Project Management
-- 🔵 Jira
-- 📋 Trello
-- 📝 Notion
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jira.svg" alt="Jira" width="16" height="16"> Jira
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/trello.svg" alt="Trello" width="16" height="16"> Trello
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notion.svg" alt="Notion" width="16" height="16"> Notion
 - 🎯 Agile/Scrum
 
 #### 🤖 AI Tools
-- 🤖 ChatGPT
-- 🤖 GitHub Copilot
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="ChatGPT" width="16" height="16"> ChatGPT
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub Copilot" width="16" height="16"> GitHub Copilot
 - 🤖 Claude
 - ⌨️ Cursor
 - 🤖 WindSurf
