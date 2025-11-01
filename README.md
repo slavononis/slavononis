@@ -151,76 +151,76 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 <summary>📖 Click to expand</summary>
 
 #### ⚡ Frameworks
-- Vue 2/3
-- Nuxt
-- Express
+- 🟢 Vue 2/3
+- 🟣 Nuxt
+- ⚫ Express
 
 #### 🧩 UI Component Libraries
-- Ant Design
-- Material UI
-- Element UI
-- Bootstrap
-- Shadcn UI
+- 🐜 Ant Design
+- ⚛️ Material UI
+- 🔷 Element UI
+- 🟣 Bootstrap
+- 🎨 Shadcn UI
 
 #### 🔄 State Management
-- Redux
-- Vuex
-- Pinia
-- Zustand
+- 🟣 Redux
+- 🟢 Vuex
+- 🟡 Pinia
+- 🟠 Zustand
 
 #### 📦 Utility Libraries
-- React Use package
-- Tanstack Query (React/Vue)
-- Apollo GraphQL Client
-- React Hook Form
-- Lodash
-- Moment.js / Luxon / Day.js
-- jQuery
+- ⚛️ React Use package
+- 🔵 Tanstack Query (React/Vue)
+- 🟣 Apollo GraphQL Client
+- ⚛️ React Hook Form
+- 🔵 Lodash
+- ⏰ Moment.js / Luxon / Day.js
+- 💚 jQuery
 
 #### 📊 Data Visualization
-- Chart.js
-- Ant Design Plots
-- GSAP
-- Framer Motion
+- 📈 Chart.js
+- 📊 Ant Design Plots
+- ✨ GSAP
+- 🎬 Framer Motion
 
 #### 🧪 Testing
-- Playwright
-- Cypress
-- Storybook
-- Chromatic
+- 🎭 Playwright
+- 🌲 Cypress
+- 📚 Storybook
+- 🎨 Chromatic
 
 #### 🏗️ Build Tools
-- Vite
-- Webpack
-- Gulp
-- Monorepo
+- ⚡ Vite
+- 📦 Webpack
+- 🔧 Gulp
+- 📁 Monorepo
 
 #### 🚀 CI/CD & Deployment
-- GitHub Actions
-- GitLab CI/CD
-- Bitbucket Pipelines
-- Vercel
-- AWS Amplify
-- Heroku
-- Netlify
+- 🐙 GitHub Actions
+- 🦊 GitLab CI/CD
+- 🔵 Bitbucket Pipelines
+- ▲ Vercel
+- ☁️ AWS Amplify
+- 🟣 Heroku
+- 🟢 Netlify
 
 #### 🔐 Authentication & Security
-- JWT (JSON Web Token)
-- OAuth 2.0
-- Two-Factor Authentication (2FA)
+- 🔑 JWT (JSON Web Token)
+- 🔒 OAuth 2.0
+- 🛡️ Two-Factor Authentication (2FA)
 
 #### 📋 Project Management
-- Jira
-- Trello
-- Notion
-- Agile/Scrum
+- 🔵 Jira
+- 📋 Trello
+- 📝 Notion
+- 🎯 Agile/Scrum
 
 #### 🤖 AI Tools
-- ChatGPT
-- GitHub Copilot
-- Claude
-- Cursor
-- WindSurf
+- 🤖 ChatGPT
+- 🤖 GitHub Copilot
+- 🤖 Claude
+- ⌨️ Cursor
+- 🤖 WindSurf
 
 </details>
 
