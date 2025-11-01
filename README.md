@@ -1,7 +1,4 @@
 <div id="header" align="center">
-
-<img src="./assets/github.gif" width="100"/>
-
 <h1>
 Hey there, I'm Vyacheslav Onischenko!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
@@ -12,22 +9,19 @@ Experienced Front-End Developer | React/Next
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/vyacheslav-onischenko-380a6117b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/slavononis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:slavon.onischenko@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://onislabs.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Kyiv,%20Ukraine-blue" alt="Location: Kyiv, Ukraine"/>
+  📍 <img src="https://img.shields.io/badge/Location-Kyiv,%20Ukraine-blue" alt="Location: Kyiv, Ukraine"/>
 </p>
 
 </div>
@@ -47,7 +41,7 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 
 ### 🛠️ Tech Stack & Tools :
 
-#### Programming Languages
+#### 💻 Programming Languages
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -71,7 +65,7 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 </table>
 </div>
 
-#### Frameworks & Libraries
+#### ⚛️ Frameworks & Libraries
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -95,7 +89,7 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 </table>
 </div>
 
-#### Styling & CSS Frameworks
+#### 🎨 Styling & CSS Frameworks
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -115,7 +109,7 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 </table>
 </div>
 
-#### Databases & DevOps
+#### 🗄️ Databases & DevOps
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -139,7 +133,7 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 </table>
 </div>
 
-#### Development Tools
+#### 🔧 Development Tools
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -154,27 +148,27 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 ### 📚 Additional Technologies
 
 <details>
-<summary>Click to expand</summary>
+<summary>📖 Click to expand</summary>
 
-#### Frameworks
+#### ⚡ Frameworks
 - Vue 2/3
 - Nuxt
 - Express
 
-#### UI Component Libraries
+#### 🧩 UI Component Libraries
 - Ant Design
 - Material UI
 - Element UI
 - Bootstrap
 - Shadcn UI
 
-#### State Management
+#### 🔄 State Management
 - Redux
 - Vuex
 - Pinia
 - Zustand
 
-#### Utility Libraries
+#### 📦 Utility Libraries
 - React Use package
 - Tanstack Query (React/Vue)
 - Apollo GraphQL Client
@@ -183,25 +177,25 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 - Moment.js / Luxon / Day.js
 - jQuery
 
-#### Data Visualization
+#### 📊 Data Visualization
 - Chart.js
 - Ant Design Plots
 - GSAP
 - Framer Motion
 
-#### Testing
+#### 🧪 Testing
 - Playwright
 - Cypress
 - Storybook
 - Chromatic
 
-#### Build Tools
+#### 🏗️ Build Tools
 - Vite
 - Webpack
 - Gulp
 - Monorepo
 
-#### CI/CD & Deployment
+#### 🚀 CI/CD & Deployment
 - GitHub Actions
 - GitLab CI/CD
 - Bitbucket Pipelines
@@ -210,18 +204,18 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 - Heroku
 - Netlify
 
-#### Authentication & Security
+#### 🔐 Authentication & Security
 - JWT (JSON Web Token)
 - OAuth 2.0
 - Two-Factor Authentication (2FA)
 
-#### Project Management
+#### 📋 Project Management
 - Jira
 - Trello
 - Notion
 - Agile/Scrum
 
-#### AI Tools
+#### 🤖 AI Tools
 - ChatGPT
 - GitHub Copilot
 - Claude
@@ -238,15 +232,14 @@ Highly-motivated Front-End (React/Next) Developer with **7+ years** of commercia
 <table align="center">
   <tr>
     <td align="center">
-        Ukrainian - Superior/Native
+        <img src="https://flagcdn.com/w20/ua.png" alt="UA" width="20" height="15"> Ukrainian - Superior/Native
     </td>
   </tr>
   <tr>
     <td align="center">
-        English - Advanced High
+        <img src="https://flagcdn.com/w20/us.png" alt="US" width="20" height="15"> English - Advanced High
     </td>
   </tr>
 </table>
 </div>
 
----
